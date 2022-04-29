@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694629492459",
+    "project_id": "space-60c32",
+    "storage_bucket": "space-60c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694629492459:android:65ad438b078b9ce79f00ae",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.csim.luna.hiresystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694629492459-0mjprnv77nrdhrah1nt1hesm4a3r6nh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANtPK7ziLOT4j0c1ILzLqokVwHWdYGxVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694629492459-0mjprnv77nrdhrah1nt1hesm4a3r6nh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

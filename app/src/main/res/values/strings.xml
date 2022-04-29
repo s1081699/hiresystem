@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hire system</string>
+    <string name="出租系統">出租系統</string>
+    <string name="登入">登入</string>
+    <string name="註冊">註冊</string>
+    <string name="手機號">手機號</string>
+    <string name="密碼">密碼</string>
+    <string name="新用戶">新用戶</string>
+</resources>
